@@ -1,8 +1,3 @@
-<!-- Logo -->
-<p align="center">
-  <img src="frontend/public/placeholder-logo.svg" alt="Pizza Shop Logo" width="215" height="48">
-</p>
-
 # Pizza Shop
 
 **Mario's Pizza Palace** — Bringing authentic Italian flavors to your neighborhood since 1999.
